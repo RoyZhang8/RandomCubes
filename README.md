@@ -1,2 +1,2 @@
 # RandomCubes
-Sample exercise from text Intro to Game Design.
+Sample exercise from the text Intro to Game Design.
